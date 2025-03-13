@@ -1,6 +1,6 @@
-const age = 20;
+const ages = 20;
 
-if (age >= 10)
+if (ages >= 10)
 {
     console.log("Es mayor de edad");
 }
