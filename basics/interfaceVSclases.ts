@@ -1,4 +1,5 @@
-interface PersonInterface
+
+/*interface PersonInterface
 {
     name: string;
     code: string | number;
@@ -23,6 +24,7 @@ const personOne: PersonInterface =
 };
 */
 
+/*
 const personTwo: PersonClass = new PersonClass();
 personTwo.sayHello();
 
@@ -51,3 +53,4 @@ class Cat extends PetClass
 {
     
 }
+*/
